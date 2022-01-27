@@ -29,7 +29,7 @@
  <li> <span> Mantenha-o longe de líquidos, mas também de alimentos e outros materiais orgânicos; </span> </li>
  
  <h1> </h1>
- <li> <span> Carregue a bateria, remova ela e guarde para usar em viajens. No dia a dia use-o somente com o carregador. Neste caso não fique mudando ele de lugar; </span> </li>
+ <li> <span> Carregue a bateria, remova ela e guarde para usar em viajens. No dia a dia use-o somente com o carregador. Neste caso evite ficar mudando ele de lugar; </span> </li>
  
  <h1> </h1>
  <li> <span> Se não puder/quiser remover e guardar a bateria, deixe o laptop direto no carregador e somente de vez em quando tire o carregador para utilizar a energia da bateria; </span> </li>
