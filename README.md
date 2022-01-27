@@ -1,11 +1,16 @@
 <h1 align="center">💻 Tips for Laptopers </h1>
 
-<p align="center"> 🔗 Listei aqui algumas boas práticas para aumentar a durabilidade, a segurança e também a conservar a estética do seu laptop</p>
+<p align="center"> 🔗 Listei aqui algumas boas práticas para aumentar a durabilidade, a segurança e também para conservar a estética do seu laptop</p>
 
 <h1> </h1>
 
 <ul class="ck ck-todolist">
+ <li> <span> Evite ao máximo comprar laptops que tem o botão de ligar embutido com o teclado interno; </span> </li>
  
+ <h1> </h1>
+ <li> <span> Ao comprar, prefira laptops com o revestimento da base toda em alumínio ou outro metal\material frio; </span> </li>
+ 
+ <h1> </h1>
  <li> <span> Utilize mouse e teclado externo; </span> </li>
  
  <h1> </h1>
@@ -60,6 +65,6 @@
  <li> <span> Mantenha os cabos conectados ao laptop organizados e fora do caminho; </span> </li>
  
  <h1> </h1>
- <li> <span> Não deixe que os cabos conectados fiquem repuxando os conectores/entradas do laptop para baixo. Use apoios para evitar isso; </span> </li>
+ <li> <span> Não deixe que os cabos conectados fiquem repuxando as portas/entradas do laptop, especialmente para baixo. Use apoios e organize os fios para evitar isso; </span> </li>
  
 </ul>
