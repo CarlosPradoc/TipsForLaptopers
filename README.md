@@ -53,16 +53,16 @@
  <li> <span> Mantenha as saídas de ar livres e use coolers para o refriamento interno. Existem suportes para laptops com estas caracteristicas, de preferência reguláveis; </span> </li>
  
  <h1> </h1>
- <li> <span> Agende a troca da pasta térmica, limpeza interna e lubrificação das hastes e do cooler em um intervalo máximo de 2 anos; </span> </li>
+ <li> <span> Agende a troca da pasta térmica, limpeza interna e lubrificação das hastes e do cooler em um intervalo máximo de 4 anos; </span> </li>
  
  <h1> </h1>
  <li> <span> Troque o HD por um SSD; </span> </li>
  
  <h1> </h1>
- <li> <span> Mantenha cameras e outros sensores tapados. Fita isolante serve bem em laptops pretos; </span> </li>
+ <li> <span> Mantenha cameras e outros sensores tapados. Existem lock/tampa cameras adesivos para comprar mas fita isolante já serve bem em laptops pretos; </span> </li>
  
  <h1> </h1>
- <li> <span> Mantenha o acesso de familiares leigos e visitas a um ambiente virtual e físico restrito e monitorado, specialmente na internet; </span> </li>
+ <li> <span> Mantenha o acesso de familiares muito leigos e visitas a um ambiente virtual e físico restrito e monitorado, specialmente na internet; </span> </li>
  
  <h1> </h1>
  <li> <span> Utilize conexões cabiadas; </span> </li>
@@ -73,8 +73,7 @@
  <h1> </h1>
  <li> <span> Não deixe que os cabos conectados fiquem repuxando as portas/entradas do laptop, especialmente para baixo. Use apoios e organize os fios para evitar isso; </span> </li>
  
- 
  <h1> </h1>
- <li> <span> Prefira softwares/programas opensource mas principalmente Softwares Livres, desde utilitários e API's gráficas até o seu sistema operacional; </span> </li>
+ <li> <span> Prefira softwares opensource mas principalmente softwares/programas Livres, desde utilitários e API's gráficas até o seu sistema operacional; </span> </li>
  
 </ul>
