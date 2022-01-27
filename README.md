@@ -41,7 +41,7 @@
  <li> <span> Evite ficar abrindo e fechando o laptop; </span> </li>
  
  <h1> </h1>
- <li> <span> Tire a poeira externa. Em áreas com relevo, como: no teclado e saidas de ar, use um pincél macio, e nas outras use um pano macio, ambos secos; </span> </li>
+ <li> <span> Tire a poeira externa. Em áreas com relevo, como: no teclado e saídas de ar use um pincél macio, e nas outras use um pano macio, ambos secos; </span> </li>
  
  <h1> </h1>
  <li> <span> Com ele desligado, limpe a gordura de dedos e outras sujeiras mais grudadas da carcaça, especialmente do teclado e do touchpad. Para isso, use um pano umidecido em desengordurante. Espere secar para religa-lo; </span> </li>
