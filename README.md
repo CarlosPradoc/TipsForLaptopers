@@ -5,7 +5,7 @@
 <h1> </h1>
 
 <ul class="ck ck-todolist">
- <li> <span> Evite ao máximo comprar laptops que tem o botão de ligar embutido com o teclado interno; </span> </li>
+ <li> <span> Evite ao máximo comprar laptops que tem o botão de ligar/power embutido com o teclado interno; </span> </li>
  
  <h1> </h1>
  <li> <span> Ao comprar, prefira laptops com o revestimento da base toda em alumínio ou outro metal/material frio; </span> </li>
@@ -29,7 +29,7 @@
  <li> <span> Mantenha-o longe de líquidos, mas também de alimentos e outros materiais orgânicos; </span> </li>
  
  <h1> </h1>
- <li> <span> Carregue a bateria, remova ela e guarde para usar em viajens. No dia a dia use-o somente com carregador. Neste caso não fique mudando de lugar; </span> </li>
+ <li> <span> Carregue a bateria, remova ela e guarde para usar em viajens. No dia a dia use-o somente com o carregador. Neste caso não fique mudando ele de lugar; </span> </li>
  
  <h1> </h1>
  <li> <span> Se não puder/quiser remover e guardar a bateria, deixe o laptop direto no carregador e de vez em quando tire para utilizar a energia da bateria; </span> </li>
