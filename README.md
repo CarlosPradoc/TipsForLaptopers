@@ -32,7 +32,7 @@
  <li> <span> Carregue a bateria, remova ela e guarde para usar em viajens. No dia a dia use-o somente com o carregador. Neste caso não fique mudando ele de lugar; </span> </li>
  
  <h1> </h1>
- <li> <span> Se não puder/quiser remover e guardar a bateria, deixe o laptop direto no carregador e de vez em quando tire para utilizar a energia da bateria; </span> </li>
+ <li> <span> Se não puder/quiser remover e guardar a bateria, deixe o laptop direto no carregador e somente de vez em quando tire o carregador para utilizar a energia da bateria; </span> </li>
  
  <h1> </h1>
  <li> <span> Quando utilizar sem o carregador: não deixe a bateria zerar e coloque para carregar quando chegar na porcentagem indicada pelo sistema operacional; </span> </li>
