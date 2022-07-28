@@ -1,6 +1,6 @@
 <h1 align="center">💻 Tips for Laptopers </h1>
 
-<p align="center"> 🔗 Listei aqui algumas boas práticas para aumentar a durabilidade, a segurança e também para conservar a estética do seu notebook/laptop</p>
+<p align="center"> 🔗 Listei aqui algumas boas práticas para aumentar a durabilidade, segurança e também para conservar a estética do seu notebook.</p>
 
 <h1> </h1>
 
