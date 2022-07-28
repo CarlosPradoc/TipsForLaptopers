@@ -74,6 +74,6 @@
  <li> <span> Não deixe que os cabos conectados fiquem repuxando as portas/entradas do laptop, especialmente para baixo. Use apoios e organize os fios para evitar isso; </span> </li>
  
  <h1> </h1>
- <li> <span> Prefira softwares opensource mas principalmente softwares/programas Livres, desde utilitários e API's gráficas até o seu sistema operacional; #DonTrustVerify #DonTrustCheck </span> </li>
+ <li> <span> Prefira softwares opensource e softwares livres, desde utilitários até o seu sistema operacional; #DonTrustVerify #DonTrustCheck </span> </li>
  
 </ul>
